@@ -1,0 +1,16 @@
+# STM32CubeIDE build output
+**/Debug/
+**/Release/
+**/.settings/
+**/.mxproject
+**/.launch
+
+# IDE metadata
+*.log
+*.swp
+*.tmp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
